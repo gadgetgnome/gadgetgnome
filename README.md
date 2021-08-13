@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Pål Smitt-Amundsen
+- 👀 I’m interested in technology, creativity, nature and sailing! 
+- 🌱 I’m currently learning Next.js
+- 📫 paal@paal.org
+- 💻 https://codepen.io/gadgetgnome/
+- 🐦 https://twitter.com/paalsa
