@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Pål Smitt-Amundsen
+- Working i [TRY Creative Tech](https://try.no/creative-tech)
 - 👀 I’m interested in technology, creativity, nature and sailing! 
-- 🌱 I’m currently learning Next.js
-- 📫 paal@paal.org
+- 🌱 I’m currently learning Blender
+- 📫 paal@paal.org / psa@try.no
 - 💻 https://codepen.io/gadgetgnome/
 - 🐦 https://twitter.com/paalsa
+- 🤖 https://www.shadertoy.com/view/4t3SRM
