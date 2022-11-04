@@ -5,4 +5,4 @@
 - 📫 paal@paal.org / psa@try.no
 - 💻 https://codepen.io/gadgetgnome/
 - 🐦 https://twitter.com/paalsa
-- 🤖 https://www.shadertoy.com/profile/?show=shaders
+- 🤖 https://www.shadertoy.com/user/gadgetgnome
