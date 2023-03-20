@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pål Smitt-Amundsen
-- Working i [TRY Creative Tech](https://try.no/creative-tech)
+- Working i Sopra Steria as a Business Developer & Creative Technologist
 - 👀 I’m interested in technology, creativity, nature and sailing! 
 - 🌱 I’m currently learning Blender
 - 📫 paal@paal.org / psa@try.no
