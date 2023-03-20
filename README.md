@@ -2,7 +2,7 @@
 - Working i Sopra Steria as a Business Developer & Creative Technologist
 - 👀 I’m interested in technology, creativity, nature and sailing! 
 - 🌱 I’m currently learning Blender
-- 📫 paal@paal.org / psa@try.no
+- 📫 paal@paal.org / paal.smitt@soprasteria.com
 - 💻 https://codepen.io/gadgetgnome/
 - 🐦 https://twitter.com/paalsa
 - 🤖 https://www.shadertoy.com/user/gadgetgnome
